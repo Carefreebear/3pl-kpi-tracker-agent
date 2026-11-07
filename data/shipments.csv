@@ -1,0 +1,16 @@
+shipment_id,provider,ship_date,delivery_date,promised_date,order_accurate,damage_free,exception,cost
+DEMO-A-1,ExampleCarrier Alpha,2026-09-01,2026-09-03,2026-09-03,1,1,0,142.50
+DEMO-A-2,ExampleCarrier Alpha,2026-09-02,2026-09-05,2026-09-04,1,1,1,155.25
+DEMO-A-3,ExampleCarrier Alpha,2026-09-03,2026-09-05,2026-09-05,1,0,0,149.10
+DEMO-A-4,ExampleCarrier Alpha,2026-09-04,2026-09-06,2026-09-06,1,1,0,138.90
+DEMO-A-5,ExampleCarrier Alpha,2026-09-05,2026-09-07,2026-09-07,0,1,0,151.30
+DEMO-B-1,ExampleCarrier Beta,2026-09-01,2026-09-02,2026-09-03,1,1,0,168.20
+DEMO-B-2,ExampleCarrier Beta,2026-09-02,2026-09-04,2026-09-04,1,1,0,171.40
+DEMO-B-3,ExampleCarrier Beta,2026-09-03,2026-09-05,2026-09-05,1,1,0,164.75
+DEMO-B-4,ExampleCarrier Beta,2026-09-04,2026-09-05,2026-09-06,1,1,0,176.10
+DEMO-B-5,ExampleCarrier Beta,2026-09-05,2026-09-07,2026-09-07,1,1,0,169.80
+DEMO-C-1,ExampleCarrier Gamma,2026-09-01,2026-09-04,2026-09-03,1,1,1,129.30
+DEMO-C-2,ExampleCarrier Gamma,2026-09-02,2026-09-05,2026-09-04,0,1,1,133.45
+DEMO-C-3,ExampleCarrier Gamma,2026-09-03,2026-09-06,2026-09-05,1,0,1,127.80
+DEMO-C-4,ExampleCarrier Gamma,2026-09-04,2026-09-07,2026-09-06,1,1,1,135.60
+DEMO-C-5,ExampleCarrier Gamma,2026-09-05,2026-09-08,2026-09-07,1,1,1,131.95

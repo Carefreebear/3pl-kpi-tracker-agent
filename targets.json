@@ -1,0 +1,8 @@
+{
+  "minimum_on_time_delivery_pct": 95,
+  "minimum_order_accuracy_pct": 98,
+  "minimum_damage_free_pct": 99,
+  "maximum_exception_pct": 5,
+  "maximum_avg_transit_days": 3,
+  "maximum_avg_cost_per_shipment": 175
+}

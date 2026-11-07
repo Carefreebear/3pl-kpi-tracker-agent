@@ -29,7 +29,7 @@ python -m unittest discover -s tests -v
 
 ## Data contract
 
-Each CSV row represents one shipment. Boolean fields use `1` for yes and `0` for no. The included sample is synthetic.
+Each CSV row represents one shipment. Boolean fields use `1` for yes and `0` for no. The included rows use unmistakably fictitious ExampleCarrier names and synthetic values.
 
 ## Production extensions
 
